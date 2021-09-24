@@ -19,16 +19,16 @@ Samples from CAN after 80-100 epoch. Each epoch is roughly of 40 hours' running 
 CycleGAN Style transfer: each style is trained with around 1500 images<br />
 Ouput shown as translated, reversion process shown as reconstructed<br />
 
-Classicism to pop art, 200 epoch.<br />
+Classicism to pop art, 200 epoch.<br /><br />
 ![collage](assets/orama_CycleGAN_199.png)
 
-Dashcam to pop art, 145 epoch.<br />
+Dashcam to pop art, 145 epoch.<br /><br />
 ![collage](assets/orama_CycleGAN_145.png)
 
-Dashcam to pop art, compilation<br /><br />
+Dashcam to pop art, compilation.<br /><br />
 ![cycleGAN](assets/orama_cars.gif)
 
-Photo to cartoon<br />
+Photo to cartoon.<br /><br />
 ![cycleGAN](assets/orama_CycleGAN.png)
 
 
