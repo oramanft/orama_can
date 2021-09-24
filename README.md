@@ -17,7 +17,7 @@ Samples from CAN after 80-100 epoch. Each epoch is roughly of 40 hours' running 
 
 ## GAN
 CycleGAN Style transfer: each style is trained with around 1500 images<br />
-Ouput shown as translated, reversion process shown as reconstructed<br />
+Output shown as translated, reversion process shown as reconstructed<br />
 
 Classicism to pop art, 200 epoch.<br /><br />
 ![collage](assets/orama_CycleGAN_199.png)
